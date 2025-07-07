@@ -1,0 +1,562 @@
+[
+  {
+    "name": "A&W",
+    "website": null,
+    "phone": "416-306-0333",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/A-W/100765605.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "20 Bay St",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M5J 2N8"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "1.0"
+  },
+  {
+    "name": "A&W",
+    "website": null,
+    "phone": "416-596-9134",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/A-W/7775161.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "260 Yonge St",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M5B 2L9"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "0.5"
+  },
+  {
+    "name": "A&W",
+    "website": null,
+    "phone": "647-748-7778",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/A-W/8093079.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "35 Eglinton Ave E",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M4P 1A1"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "6.5"
+  },
+  {
+    "name": "A&W",
+    "website": null,
+    "phone": "416-534-2400",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/A-W/101234461.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "1496 Queen St W",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M6K 1M4"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "4.8"
+  },
+  {
+    "name": "DAVIDsTEA",
+    "website": null,
+    "phone": "416-698-6036",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/DAVIDsTEA/7819280.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2010 Queen St E",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M4L 1J3"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "6.8"
+  },
+  {
+    "name": "Denny's",
+    "website": null,
+    "phone": "416-599-6161",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/Denny-s/100495200.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "121 Dundas Street West",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M5G 1C4"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "0.7"
+  },
+  {
+    "name": "Panera Bread",
+    "website": null,
+    "phone": "416-205-9340",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/Panera-Bread/7845127.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "332 Yonge St",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M5B 1R8"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "0.8"
+  },
+  {
+    "name": "Pizzaville",
+    "website": null,
+    "phone": "416-736-3636",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/Pizzaville/100363770.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "796 College St",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M6G 1C6"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "3.4"
+  },
+  {
+    "name": "Famoso Neapolitan Pizzeria",
+    "website": null,
+    "phone": "647-748-2333",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/Famoso-Neapolitan-Pizzeria/7984304.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "386 Bloor St W",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M5S 1X4"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "2.8"
+  },
+  {
+    "name": "Mandarin Restaurant",
+    "website": null,
+    "phone": "416-486-2222",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/Mandarin-Restaurant/1006586.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2200 Yonge St",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M4S 2C6"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "6.4"
+  },
+  {
+    "name": "Gusto 101",
+    "website": null,
+    "phone": "416-504-6404",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/Gusto-101/7907474.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "101 Portland St",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M5V 2N3"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": null
+  },
+  {
+    "name": "La Scogliera",
+    "website": "/merchant/directions/101857654/?what=Restaurants&where=Toronto+ON&useContext=true",
+    "phone": null,
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/La-Scogliera/101857654.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2277 Kingston Rd",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M1N 1T8"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "12.1"
+  },
+  {
+    "name": "Beer",
+    "website": null,
+    "phone": "416-861-9872",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Beer/173953.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": null,
+      "city": null,
+      "region": null,
+      "postal_code": null
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": null
+  },
+  {
+    "name": "Big Butcher BBQ",
+    "website": null,
+    "phone": "416-236-5959",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Etobicoke/Big-Butcher-BBQ/4478975.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "843 Kipling Ave",
+      "city": "Etobicoke",
+      "region": "ON",
+      "postal_code": "M8Z 5G9"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "12.4"
+  },
+  {
+    "name": "La Place Du Group",
+    "website": null,
+    "phone": "416-259-4663",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Etobicoke/La-Place-Du-Group/7147368.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2045 Lake Shore Blvd W",
+      "city": "Etobicoke",
+      "region": "ON",
+      "postal_code": "M8V 2Z6"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "7.9"
+  },
+  {
+    "name": "Tim Hortons",
+    "website": null,
+    "phone": "437-213-5634",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Etobiocke/Tim-Hortons/102599916.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2125 Lakeshore Blvd. W",
+      "city": "Etobiocke",
+      "region": "ON",
+      "postal_code": "M8V 0B3"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.4"
+  },
+  {
+    "name": "Subway",
+    "website": null,
+    "phone": "416-251-0181",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/Subway/101526254.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2125 Lake Shore Blvd West",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M8V 0B3"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.4"
+  },
+  {
+    "name": "Eden Trattoria",
+    "website": null,
+    "phone": "416-255-5588",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Etobicoke/Eden-Trattoria/3416804.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "106-58 Marine Parade Dr",
+      "city": "Etobicoke",
+      "region": "ON",
+      "postal_code": "M8V 4G1"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.4"
+  },
+  {
+    "name": "Eden Trattoria Ii Inc",
+    "website": null,
+    "phone": "416-648-2483",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Etobicoke/Eden-Trattoria-Ii-Inc/102626996.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "10-58 Marine Parade Dr, 13",
+      "city": "Etobicoke",
+      "region": "ON",
+      "postal_code": "M8V 4G1"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.4"
+  },
+  {
+    "name": "Wing Machine And Panzarotto",
+    "website": null,
+    "phone": "647-352-7577",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Scarborough/Wing-Machine-And-Panzarotto/7149471.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "1062 Kingston Rd",
+      "city": "Scarborough",
+      "region": "ON",
+      "postal_code": "M1N 1N4"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.4"
+  },
+  {
+    "name": "Papa Johns Pizza",
+    "website": null,
+    "phone": "416-699-6669",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/Papa-Johns-Pizza/101197642.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "1085 KINGSTON ROAD",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M4L 1S4"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.5"
+  },
+  {
+    "name": "Tim Hortons",
+    "website": null,
+    "phone": "416-693-5583",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Scarborough/Tim-Hortons/101822367.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "1089 Kingston Rd",
+      "city": "Scarborough",
+      "region": "ON",
+      "postal_code": "M1N 4E4"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.5"
+  },
+  {
+    "name": "McDonald's",
+    "website": null,
+    "phone": "416-690-3659",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Scarborough/McDonald-s/2401935.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2480 Gerrard Street East",
+      "city": "Scarborough",
+      "region": "ON",
+      "postal_code": "M1N 4C3"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.6"
+  },
+  {
+    "name": "Wendy's",
+    "website": null,
+    "phone": "1-800-498-1872",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/Wendy-s/102899046.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2480 Gerrard St E",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M1N 4C3"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.6"
+  },
+  {
+    "name": "Tim Hortons",
+    "website": null,
+    "phone": "647-350-3972",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Scarborough/Tim-Hortons/100435157.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2480 Gerrard St East",
+      "city": "Scarborough",
+      "region": "ON",
+      "postal_code": "M1N 4C3"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.6"
+  },
+  {
+    "name": "Subway",
+    "website": null,
+    "phone": "905-420-0008",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Pickering/Subway/100547972.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "1105 Kingston Rd",
+      "city": "Pickering",
+      "region": "ON",
+      "postal_code": "L1V 1B5"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.6"
+  },
+  {
+    "name": "Subway",
+    "website": null,
+    "phone": "416-259-6886",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/Subway/8080550.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "125 Queensway",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M8Y 1H6"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.6"
+  },
+  {
+    "name": "Tim Hortons",
+    "website": null,
+    "phone": "416-259-7509",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Etobicoke/Tim-Hortons/100441710.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2189 Lakeshore Blvd W",
+      "city": "Etobicoke",
+      "region": "ON",
+      "postal_code": "M8V 1A1"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.6"
+  },
+  {
+    "name": "Tim Hortons",
+    "website": null,
+    "phone": "1-888-601-1616",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Toronto/Tim-Hortons/5990110.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "3075 Danforth Ave",
+      "city": "Toronto",
+      "region": "ON",
+      "postal_code": "M1L 1A8"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.7"
+  },
+  {
+    "name": "Little Caesars Pizza",
+    "website": null,
+    "phone": "647-346-5000",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Scarborough/Little-Caesars-Pizza/100884499.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2480 Gerrard Street East",
+      "city": "Scarborough",
+      "region": "ON",
+      "postal_code": "M1N 4C3"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.7"
+  },
+  {
+    "name": "Wendy's - Closed",
+    "website": null,
+    "phone": "647-352-9946",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Scarborough/Wendy-s-Closed/102790988.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "2480 Gerrard St E",
+      "city": "Scarborough",
+      "region": "ON",
+      "postal_code": "M1N 4C3"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.7"
+  },
+  {
+    "name": "1000244651 Ontario Momo Dumpling Express",
+    "website": null,
+    "phone": "416-255-0505",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Etobicoke/1000244651-Ontario-Momo-Dumpling-Express/1728595.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "a 1-156 The Queensway",
+      "city": "Etobicoke",
+      "region": "ON",
+      "postal_code": "M8Y 1J2"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.7"
+  },
+  {
+    "name": "Market Garden Restaurant",
+    "website": null,
+    "phone": "416-503-0507",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Etobicoke/Market-Garden-Restaurant/101966922.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "165 The Queensway",
+      "city": "Etobicoke",
+      "region": "ON",
+      "postal_code": "M8Y 1H8"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.7"
+  },
+  {
+    "name": "Bill Maur Coffee Shop",
+    "website": null,
+    "phone": "416-259-2784",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Etobicoke/Bill-Maur-Coffee-Shop/194555.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "165 The Queensway, Main",
+      "city": "Etobicoke",
+      "region": "ON",
+      "postal_code": "M8Y 1H8"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.8"
+  },
+  {
+    "name": "Fresh Advancements Inc",
+    "website": null,
+    "phone": "416-640-7001",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Etobicoke/Fresh-Advancements-Inc/7721479.html?what=Restaurants&where=Toronto+ON&useContext=true",
+    "address": {
+      "street": "165 The Queensway",
+      "city": "Etobicoke",
+      "region": "ON",
+      "postal_code": "M8Y 1H8"
+    },
+    "categories": [
+      "Restaurants"
+    ],
+    "distance": "8.8"
+  }
+]
